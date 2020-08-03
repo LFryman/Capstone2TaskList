@@ -1,0 +1,13 @@
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.csprojAssemblyReference.cache
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.AssemblyInfoInputs.cache
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.AssemblyInfo.cs
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.csproj.CoreCompileInputs.cache
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.exe
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.deps.json
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.runtimeconfig.json
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.runtimeconfig.dev.json
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.dll
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.pdb
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.dll
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.pdb
+C:\Users\Zach\source\repos\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.genruntimeconfig.cache
